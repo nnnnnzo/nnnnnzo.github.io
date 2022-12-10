@@ -9,6 +9,7 @@ version: 2
 name: Enzo Lagadec
 title: Etudiant en 2ème année de BUT Informatique
 email: enzo.lagadec@etu.univ-savoie.fr
+Lieux: Annecy France
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -29,9 +30,9 @@ linkedin_username: enzo-lagadec-84b766252
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
