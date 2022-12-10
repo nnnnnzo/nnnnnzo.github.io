@@ -62,8 +62,7 @@ content:
         quote: >
           Proident eu do est officia cillum mollit duis minim magna fugiat minim ad sed amet in irure commodo et.
         description: | # this will include new lines to allow paragraphs
-          Bachelor Universitaire de Technologie Informatique: <br/>
-          Parcours intégration d'applications et management du système d'information
+          Bachelor Universitaire de Technologie Informatique: Parcours intégration d'applications et management du système d'information
 
       - layout: left
         title: Bacalaureat Général
