@@ -56,14 +56,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: BACHELOR UNIVERSITAIRE DE TECHNOLOGIE EN INFORMATIQUE
-        link: https://www.univ-savoie.fr/fr/formation/formation-continue/but-informatique
-        link_text: USMB BUT Informatique
+        title: BUT Informatique
+        link: https://formations.univ-smb.fr/fr/catalogue/but-BUT/sciences-technologies-sante-STS/but-informatique-KGYS5DF3//but2-info-integration-d-applications-et-management-du-systeme-d-information-KI9091VE.html
+        link_text: USMB Formation
         caption: 2021 - Aujourd'hui
         sub_title: IUT d'Annecy
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          Bachelor Universitaire de Technologie Informatique
           Parcours intégration d'applications et management du système d'information
 
 
