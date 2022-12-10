@@ -51,18 +51,20 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+
   - title: Formation # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: BACHELOR UNIVERSITAIRE DE TECHNOLOGIE EN INFORMATIQUE
-          link: https://www.univ-savoie.fr/fr/formation/formation-continue/but-informatique
-          caption: 2021 - Aujourd'hui
-          sub_title: IUT d'Annecy
-          # quote: >
-          #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-          description: | # this will include new lines to allow paragraphs
-              Parcours intégration d'applications et management du système d'information
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: BACHELOR UNIVERSITAIRE DE TECHNOLOGIE EN INFORMATIQUE
+        link: https://www.univ-savoie.fr/fr/formation/formation-continue/but-informatique
+        link_text: USMB BUT Informatique
+        caption: 2021 - Aujourd'hui
+        sub_title: IUT d'Annecy
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Parcours intégration d'applications et management du système d'information
 
 
   - title: Projects # Title for the section
