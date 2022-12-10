@@ -47,7 +47,7 @@ about_title: A propos de moi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Ad occaecat lorem elit id anim non et pariatur nostrud esse. Eiusmod officia pariatur non velit magna mollit sit ex dolor incididunt aute dolor aliqua enim tempor amet laboris. <br/>
-  [![Mes Skills](https://skillicons.dev/icons?i=html,css,js,php,postgres,bash,cs,laravel,unity,swift,linux,nodejs,py,raspberrypi,qt,visualstudio)](https://skillicons.dev)
+  [![Mes Skills](https://skillicons.dev/icons?i=html,css,js,swift,cs,php,postgres,bash,laravel,unity,linux,py,raspberrypi,visualstudio)](https://skillicons.dev)
 
 content:
 
