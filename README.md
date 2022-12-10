@@ -1,2 +1,0 @@
-# nnnnnzo.github.io
-cv
