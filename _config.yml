@@ -80,6 +80,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: right
+        border: weak
         title: The Lab Sandbox
         link: https://gamejolt.com/games/Bendythedumbass/485386
         link_text: Site du jeu
@@ -98,6 +99,7 @@ content:
           Disponible sur GameJolt gratuitement sur toutes les plateformes.
 
       - layout: right
+        border: weak
         title: KhaptaPharma
         additional_links:
           - title:  nnnnnzo/KhaptaPharma
@@ -112,6 +114,7 @@ content:
           Fonctionne avec une base de données PostgreSQL. <br/>
 
       - layout: right
+        border: weak
         title: safepeur
         additional_links:
           - title:  nnnnnzo/safepeur
