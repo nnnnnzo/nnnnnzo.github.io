@@ -87,7 +87,7 @@ content:
     content:
       - layout: right
         border: weak
-        title: The Lab Sandbox
+        title: The Lab Sandbox 🧪
         link: https://gamejolt.com/games/Bendythedumbass/485386
         link_text: Site du jeu
         additional_links:
@@ -106,7 +106,7 @@ content:
 
       - layout: right
         border: weak
-        title: KhaptaPharma
+        title: KhaptaPharma 🏥
         additional_links:
           - title:  nnnnnzo/KhaptaPharma
             icon: fab fa-github
@@ -121,7 +121,7 @@ content:
 
       - layout: right
         border: weak
-        title: safepeur
+        title: safepeur 🧟‍♂️
         additional_links:
           - title:  nnnnnzo/safepeur
             icon: fab fa-github
@@ -137,7 +137,7 @@ content:
           
 
       - layout: right
-        title: Nyan Cat Freebox
+        title: Nyan Cat Freebox 🌈
         link: https://www.universfreebox.com/article/57815/nyan-cat-debarque-gratuitement-sur-les-freebox-revolution-one-et-delta-mais-l-interet-est-assez-limite
         link_text: Article de presse 
         additional_links:
@@ -159,7 +159,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Milimew
+        title: 🐱 Milimew
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: SAE semestre 3
