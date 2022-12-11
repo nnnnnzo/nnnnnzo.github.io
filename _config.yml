@@ -140,6 +140,7 @@ content:
         title: Nyan Cat Freebox 🌈
         link: https://www.universfreebox.com/article/57815/nyan-cat-debarque-gratuitement-sur-les-freebox-revolution-one-et-delta-mais-l-interet-est-assez-limite
         link_text: Article de presse 
+        caption: +41 000 téléchargements
         additional_links:
           - title:  nnnnnzo/NyanCatFreebox
             icon: fab fa-github
