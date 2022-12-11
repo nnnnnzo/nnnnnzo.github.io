@@ -9,6 +9,8 @@ version: 2
 name: Enzo Lagadec
 title: Etudiant en 2ème année de BUT Informatique à Annecy
 email: enzo.lagadec@etu.univ-savoie.fr
+website: https://github.com/nnnnnzo/nnnnnzo.github.io
+website_title: code source portfolio
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -46,7 +48,8 @@ additional_links:
 about_title: A propos de moi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Je suis Enzo Lagadec et j'ai 19 ans, j'adore le développement informatique et aime être créatif dans mes projets. Dans ce portfolio, vous verrez un aperçu de mes compétences en informatique et de mes derniers projets. J'espère que vous apprécierez ce que vous verrez et serez intéressé par ce que j'ai fait jusqu'à présent.<br/>
+  Je suis Enzo Lagadec et j'ai 19 ans, j'adore le développement informatique et aime être créatif dans mes projets. Dans ce portfolio, vous verrez un aperçu de mes compétences en informatique et de mes derniers projets. J'espère que vous apprécierez ce que vous verrez et serez intéressé par ce que j'ai fait jusqu'à présent.<br/><br/>
+  Mes compétences:<br/>
   ![Mes Skills](https://skillicons.dev/icons?i=html,css,js,swift,cs,php,postgres,bash,laravel,figma,py,linux,raspberrypi,visualstudio,unity)
 
 content:
