@@ -152,7 +152,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           J'ai mis le Nyan Cat sur toutes les Freebox de France. <br/>
           Application développée en QML avec Qt. <br/>
-          "Interet limité" mais c'est quand même la classe. <br/>
+          "Interet limité" mais c'est quand même la classe. <br/> <br/>
           ![Nyan gif](https://media.tenor.com/9zmtHZ0tIjkAAAAi/nyancat-rainbow-cat.gif)
 
   - title: Expériences # Title for the section
