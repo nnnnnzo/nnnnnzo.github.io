@@ -145,7 +145,7 @@ content:
           "Interet limité" mais c'est quand même la classe. <br/>
           ![Nyan gif](https://media.tenor.com/9zmtHZ0tIjkAAAAi/nyancat-rainbow-cat.gif)
 
-  - title: Experience # Title for the section
+  - title: Expériences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
