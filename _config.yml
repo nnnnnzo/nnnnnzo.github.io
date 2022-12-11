@@ -111,7 +111,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          Projet d'étude de 1ère année:
+          Projet d'étude de 1ère année: <br/>
           Application de gestion de pharmacie développée en C# avec WPF. <br/>
           Fonctionne avec une base de données PostgreSQL. <br/>
 
