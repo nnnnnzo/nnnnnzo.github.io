@@ -124,9 +124,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          Projet d'étude de fin de 1ère année:
+          Projet d'étude de fin de 1ère année: <br/>
           Jeu d'horreur développé en C# avec Unity en groupe. <br/>
-          Réalisé en 1 semaines. Code source bientôt disponible. <br/>
+          Réalisé en 1 semaines, code source bientôt disponible. <br/>
 
           
 
