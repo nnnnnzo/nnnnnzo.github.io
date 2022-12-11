@@ -79,7 +79,7 @@ content:
   - title: Projets # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: right
         title: The Lab Sandbox
         link: https://gamejolt.com/games/Bendythedumbass/485386
         link_text: Site du jeu
@@ -97,7 +97,7 @@ content:
           Le jeu de type bac à sable où vous pouvez faire ce que vous voulez, des serveurs sont disponibles pour jouer avec vos amis ! <br/>
           Disponible sur GameJolt gratuitement sur toutes les plateformes.
 
-      - layout: top-middle
+      - layout: right
         title: KhaptaPharma
         additional_links:
           - title:  nnnnnzo/KhaptaPharma
@@ -111,7 +111,7 @@ content:
           Application de gestion de pharmacie développée en C# avec WPF. <br/>
           Fonctionne avec une base de données PostgreSQL. <br/>
 
-      - layout: top-middle
+      - layout: right
         title: safepeur
         additional_links:
           - title:  nnnnnzo/safepeur
@@ -127,7 +127,7 @@ content:
 
           
 
-      - layout: top-middle
+      - layout: right
         title: Nyan Cat Freebox
         link: https://www.universfreebox.com/article/57815/nyan-cat-debarque-gratuitement-sur-les-freebox-revolution-one-et-delta-mais-l-interet-est-assez-limite
         link_text: Article de presse 
