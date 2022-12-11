@@ -52,7 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
   Également intéressé par l'intelligence artificielle, le developpement web, et être créatif dans mes projets. Dans ce portfolio, vous verrez un aperçu de mes compétences en informatique et de mes derniers projets. J'espère que vous apprécierez ce que vous verrez et serez intéressé par ce que j'ai fait jusqu'à présent.<br/><br/>
   **Mes compétences:**<br/>
   ![Mes Skills](https://skillicons.dev/icons?i=html,css,js,swift,cs,php,postgres,qt,laravel,figma,py,linux,raspberrypi,visualstudio,unity)
-  <br/> ![Anglais B1](https://img.shields.io/badge/Anglais-Intermédiaire%20B1-red?style=for-the-badge&logo)
+  &nbsp;
+  &nbsp;
+  ![Anglais B1](https://img.shields.io/badge/Anglais-Intermédiaire%20B1-red?style=for-the-badge&logo)
 content:
 
   - title: Formations # Title for the section
