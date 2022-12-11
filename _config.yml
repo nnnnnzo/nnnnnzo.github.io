@@ -94,8 +94,25 @@ content:
           Le jeu en réseau le plus aberrant que vous ayez jamais vu.
         description: | # this will include new lines to allow paragraphs
           Jeu en réseau développé en C# avec Unity. <br/>
-          Le jeu est un bac à sable où vous pouvez faire ce que vous voulez. Des serveurs sont disponibles pour jouer avec vos amis. <br/>
-          Il est disponible sur GameJolt gratuitement sur toutes les plateformes. <br/>
+          Le jeu de type bac à sable où vous pouvez faire ce que vous voulez, des serveurs sont disponibles pour jouer avec vos amis ! <br/>
+          Disponible sur GameJolt gratuitement sur toutes les plateformes.
+
+      - layout: top-middle
+        title: Nyan Cat Freebox
+        link: https://www.universfreebox.com/article/57815/nyan-cat-debarque-gratuitement-sur-les-freebox-revolution-one-et-delta-mais-l-interet-est-assez-limite
+        link_text: Article de presse 
+        additional_links:
+          - title:  nnnnnzo/NyanCatFreebox
+            icon: fab fa-github
+            url: https://github.com/nnnnnzo/Qt_NC
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Nyan Cat débarque gratuitement sur les Freebox Révolution, One et Delta, mais l’intérêt est assez limité
+        description: | # this will include new lines to allow paragraphs
+          J'ai mis le Nyan Cat sur toutes les Freebox de France. <br/>
+          Interet limité mais c'est la classe quand même. <br/>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
