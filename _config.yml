@@ -10,7 +10,7 @@ name: Enzo Lagadec
 title: Etudiant en 2ème année de BUT Informatique à Annecy
 email: enzo.lagadec@etu.univ-savoie.fr
 website: https://github.com/nnnnnzo/nnnnnzo.github.io
-website_title: code source portfolio
+website_title: src portfolio
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -48,7 +48,7 @@ additional_links:
 about_title: A propos de moi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Je suis Enzo Lagadec et j'ai 19 ans, j'adore le développement informatique et aime être créatif dans mes projets. Dans ce portfolio, vous verrez un aperçu de mes compétences en informatique et de mes derniers projets. J'espère que vous apprécierez ce que vous verrez et serez intéressé par ce que j'ai fait jusqu'à présent.<br/><br/>
+  Je suis Enzo Lagadec et j'ai 19 ans. j'adore le développement informatique, l'intelligence artificielle, le developpement web, et être créatif dans mes projets. Dans ce portfolio, vous verrez un aperçu de mes compétences en informatique et de mes derniers projets. J'espère que vous apprécierez ce que vous verrez et serez intéressé par ce que j'ai fait jusqu'à présent.<br/><br/>
   Mes compétences:<br/>
   ![Mes Skills](https://skillicons.dev/icons?i=html,css,js,swift,cs,php,postgres,bash,laravel,figma,py,linux,raspberrypi,visualstudio,unity)
 
@@ -64,7 +64,8 @@ content:
         caption: Septembre 2021 - Aujourd'hui
         sub_title: IUT d'Annecy
         description: | # this will include new lines to allow paragraphs
-          Bachelor Universitaire de Technologie Informatique: Parcours intégration d'applications et management du système d'information
+          Bachelor Universitaire de Technologie Informatique: <br/>
+          Parcours <mark>intégration d'applications et management du système d'information</mark>
 
       - layout: left
         title: Bacalaureat Général
