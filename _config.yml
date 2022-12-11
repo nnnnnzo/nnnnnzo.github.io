@@ -1,8 +1,7 @@
 # Site
-repository: sproogen/resume-theme
+repository: nnnnnzo/nnnnnzo.github.io
 favicon: images/favicon.ico
 
-# Content configuration version
 version: 2
 
 # Personal info
@@ -12,7 +11,6 @@ email: enzo.lagadec@etu.univ-savoie.fr
 website: https://github.com/nnnnnzo/nnnnnzo.github.io
 website_title: src portfolio
 
-# Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
@@ -25,24 +23,9 @@ instagram_username: enzo_eorg
 linkedin_username: enzo-lagadec-84b766252
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 about_title: A propos de moi
@@ -94,9 +77,6 @@ content:
           - title:  nnnnnzo/TheLabSandbox-src
             icon: fab fa-github
             url: https://github.com/nnnnnzo/TheLabSourceScripts
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Le jeu en réseau le plus aberrant que vous ayez jamais vu.
         description: | # this will include new lines to allow paragraphs
@@ -111,9 +91,6 @@ content:
           - title:  nnnnnzo/KhaptaPharma
             icon: fab fa-github
             url: https://github.com/nnnnnzo/KhaptaPharma
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           Projet d'étude de 1ère année: <br/>
           Application de gestion de pharmacie développée en C# avec WPF. <br/>
@@ -126,9 +103,6 @@ content:
           - title:  nnnnnzo/safepeur
             icon: fab fa-github
             url: https://github.com/nnnnnzo/safepeur
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           Projet d'étude de fin de 1ère année: <br/>
           Jeu d'horreur développé en C# avec Unity en groupe. <br/>
@@ -161,8 +135,6 @@ content:
     content:
       - layout: left
         title: 🐱 Milimew
-        #link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: SAE semestre 3
         caption: Septembre 2022 - Present
         description: | # this will include new lines to allow paragraphs
@@ -191,22 +163,6 @@ content:
           - Gestion des livraisons <br/>
           - Gestion des adresses <br/>
 
-
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #     - Rock climbing
-  #     - Gaming
-  #     - Knitting
-  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-  #     Look at this cool image  
-  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-# Footer
-# footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
